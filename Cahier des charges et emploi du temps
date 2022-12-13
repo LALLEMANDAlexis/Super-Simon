@@ -1,6 +1,6 @@
 Cahier des charges :
 
-Votre projet est un Simon classique. L'objectif est de recréer le jeu avec 4 LED de couleurs différentes 
+Notre projet est un Simon classique. L'objectif est de recréer le jeu avec 4 LED de couleurs différentes 
 et un effet sonore associé à chaque couleur. On commence le jeu avec une LED qui s'allume. Si le joueur
 appuie sur le bouton associé à la bonne LED, le Simon ajoute un allumage de LED à la séquence. Le modèle 
 se répète jusqu'à une séquence de 20 allumages de LED, si celui-ci est recrée par le joueur, il gagne la
