@@ -1,0 +1,48 @@
+Cahier des charges :
+
+Votre projet est un Simon classique. L'objectif est de recréer le jeu avec 4 LED de couleurs différentes 
+et un effet sonore associé à chaque couleur. On commence le jeu avec une LED qui s'allume. Si le joueur
+appuie sur le bouton associé à la bonne LED, le Simon ajoute un allumage de LED à la séquence. Le modèle 
+se répète jusqu'à une séquence de 20 allumages de LED, si celui-ci est recrée par le joueur, il gagne la
+partie. À la fin de la partie un autre effet sonore est alors lancé en fonction de la victoire ou de la 
+défaite du joueur.
+
+Emploi du temps :
+
+Séance 1 :
+
+Alexis : Montage prototype et prise de mesure
+Martin : Liste des composants + code LED
+
+Séance 2 :
+
+Alexis : Modélisation onShape pour les piècves du Simon
+Martin : Code LED
+
+Séance 3 :
+
+Alexis : Imprimer les pièces en 3D
+Martin : Code LED
+
+Séance 4 :
+
+Alexis : Code son
+Martin : Montage électrique
+
+Séance 5 :
+
+Alexis : Code son
+Martin : Assemblage du Simon + Test de l'allumage des LED et de la vision extérieure
+
+Séance 6 :
+
+Alexis : Code son
+Martin : Résolution des problèmes de la séance précédente + Test sonore
+
+Séance 7 :
+
+Alexis et Martin : Résolution des problèmes de la séance précédente + Aide code + Code Jeu
+
+Séance 8 :
+
+Alexis et Martin : Rectification des derniers détails + Test global + Conclusion du projet
