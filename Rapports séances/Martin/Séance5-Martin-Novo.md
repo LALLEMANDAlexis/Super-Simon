@@ -7,7 +7,7 @@ fonctionne correctement de toute manière. J'ai aussi ajouté des commentaires p
 programme. Ensuite j'ai réalisé le montage que j'avais fait auparavant mais cette fois-ci pour 4 LED et je l'ai testé et 
 tout était ok.
 
-https://youtu.be/S0ecv390rws
+https://youtu.be/S0ecv390rws (vidéo du test d'allumage des 4 LED)
 
 Ce montage sera situé en dessous du support du Simon et des 4 gros boutons avec un espace réservé pour la carte arduino 
 Par la suite j'ai donc pris 16 fils pour préparer mes soudures puisque je dois en faire 4 par bouton (2 sur les côtés pour 
