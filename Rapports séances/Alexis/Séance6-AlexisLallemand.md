@@ -1,3 +1,5 @@
+
+
 J'ai commencé cette séance par corriger les problèmes par rapport aux sons des leds. Le son était composé d'une seule fréquence, le son était assez désagréable et le Simon 
 n'avait pas l'atout sonore souhaité. Pour rendre les sons des leds plus agréables, j'ai donc décomposé l'effet sonore en deux fréquences qui se suivent pour créer un accord 
 plus musical que la fréquence simple dans le code précédent.
@@ -13,3 +15,8 @@ les effets sonores à l'allumage des leds ne sont plus joués.
 Enfin, j'ai voulu tout de même savoir si la mélodie pouvait marcher avec la fonction tone() dans le bon timing et si on branche simplement le haut parleur sans le lecteur mp3.
 J'ai donc réalisé une mélodie de début et de fin de partie qui fonctionne bien, même si il était difficile de coder une musique qui n'est pas hachée avec la fonction tone.
 Finalement, en jouant sur les delay et la longueur des notes, on obtient:
+
+
+https://user-images.githubusercontent.com/120491290/217812874-a74fae52-118e-4213-adc2-802c995a65b0.mov
+
+
