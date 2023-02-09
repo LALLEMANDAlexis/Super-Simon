@@ -10,3 +10,4 @@ carte arduino. Enfin je me suis rendu compte que l'espace en dessous du support 
 donc il faudra trouver une solution qui pourrait être de surélever ce support de quelques centimètres. Sinon en ce qui
 concerne le programme j'ai décidé de garder le programme de la séance précédente qui fonctionne très bien pour que Alexis
 puisse apporter les modifications qu'il souhaite au niveau du son.
+![Screenshot_20230209-173534_Gallery](https://user-images.githubusercontent.com/120502024/217878962-e5038183-d856-4cf2-b091-3dd4983e2073.jpg)
