@@ -10,3 +10,4 @@ fonctionne et il ne me restera plus qu'à placer chaque bouton sur le support et
 la carte arduino en dessous. De plus, pour éviter que rien ne se passe à la fin d'une partie au niveau du programme
 j'ai rajouté "LVL = 1" pour que l'on puisse recommencer une partie sans avoir à réappuyer sur un bouton pour refaire
 une partie. Enfin il faudra fixer chaque bouton et revérifier les derniers détails.
+![20230215_124304](https://user-images.githubusercontent.com/120502024/219433749-f225f19b-79d3-4daf-bfae-0906fdc23b53.jpg)
