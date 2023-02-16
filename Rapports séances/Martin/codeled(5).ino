@@ -142,6 +142,7 @@ void mauvaise_sequence(){
     digitalWrite(led_rouge,HIGH);
     digitalWrite(led_jaune,HIGH);
     digitalWrite(led_verte,HIGH);
+    LVL = 1;
     
     
 }
