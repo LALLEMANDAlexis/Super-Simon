@@ -1,3 +1,5 @@
+
+
 /*Déclaration des constantes et des variables utiles pour le déroulement du jeu*/
 const int MAX_LVL = 3;/*Ce niveau peut être modifié pour augmenter ou diminuer la difficulté*/
 int LVL=1;
@@ -193,6 +195,23 @@ void bonne_sequence(){
         digitalWrite (led_rouge,LOW);
         digitalWrite (led_jaune,LOW);
         digitalWrite (led_verte,LOW);
+        tone(speaker,1318,300);
+        delay(300);
+        tone(speaker,1318,350);
+        delay(300);
+        tone(speaker,1318,350);
+        delay(300);
+        tone(speaker,1046,350);
+        delay(300);
+        tone(speaker,1318,350);
+        delay(300);
+        tone(speaker,1567,350);
+        delay(300);
+        tone(speaker,784,350);
+        delay(500);
+        tone(speaker,880,350);
+        delay(300);
+        tone(speaker,880,350);
         delay(1000);
         digitalWrite(led_bleue,HIGH);
         digitalWrite(led_rouge,HIGH);
