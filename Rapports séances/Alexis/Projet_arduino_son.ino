@@ -93,7 +93,7 @@ for(int j=0; j<MAX_LVL; j++){
         delay(600);
         if (own_follow[i] != ordre[i]) {
           mauvaise_sequence();
-          exit(0);
+          return;
         }
         digitalWrite (led_bleue,HIGH);
       }
@@ -107,7 +107,7 @@ for(int j=0; j<MAX_LVL; j++){
         delay(600);
         if (own_follow[i] != ordre[i]) {
           mauvaise_sequence();
-          exit(0);
+          return;
         }
         digitalWrite (led_rouge,HIGH);
       }
@@ -122,7 +122,7 @@ for(int j=0; j<MAX_LVL; j++){
         delay(600);
         if (own_follow[i] != ordre[i]) {
           mauvaise_sequence();
-          exit(0);
+          return;
         }
         digitalWrite (led_jaune,HIGH);
       }
@@ -137,7 +137,7 @@ for(int j=0; j<MAX_LVL; j++){
         delay(600);
         if (own_follow[i] != ordre[i]) {
           mauvaise_sequence();
-          exit(0);
+          return;
         }
         digitalWrite (led_verte,HIGH);
       }
